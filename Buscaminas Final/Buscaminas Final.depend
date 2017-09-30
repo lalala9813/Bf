@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1506787951 source:c:\users\lalala9813\desktop\buscaminas final\v4.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<conio.h>
+	<MMSystem.h>
+
